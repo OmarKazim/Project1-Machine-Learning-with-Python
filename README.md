@@ -1,2 +1,10 @@
 # Project1 Machine Learning with Python
- Learning how to create Machine Learning with Python and trying to learn database and how it works
+This machine like a music program that will get the user age and depend on his age the program will recommand for him the musics
+
+# Code Program Name
+Jupyter Notebook (anaconda3)
+Visual Sudio Code
+Python 3.11
+
+# Done By
+Omar Kazim
